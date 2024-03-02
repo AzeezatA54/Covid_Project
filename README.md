@@ -1,3 +1,1 @@
-# Covid_Project
-
-##Data Exploration with SQL
+# Exploratory Data Analysis on Covid Dataset
