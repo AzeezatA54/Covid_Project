@@ -1,3 +1,3 @@
 # Covid_Project
 
-##enjoy this!
+##Data Exploration with SQL
